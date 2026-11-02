@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+jinja2
+faiss-cpu
+sentence-transformers
+pypdf
+langchain-ollama
+
+# pip install -r requirements.txt
